@@ -1,7 +1,6 @@
 # HarryPotter_Invisibility_Cloak
 
-We build the things we want to use. This is a simple python code to create an invisibility cloak similar to the one shown in Harry Potter series. Finally, 
-
+We build the things we want to use. This is a simple python code to create an invisibility cloak similar to the one shown in Harry Potter series.
 ![Recordit GIF](sample.gif)
 
 ## Dependencies
