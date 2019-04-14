@@ -5,7 +5,7 @@ We build the things we want to use. This is a simple python code to create an in
 ![Recordit GIF](sample.gif)
 
 ## Dependencies
-============
+
 * numpy
 * openCV
 * time
