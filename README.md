@@ -4,9 +4,13 @@ We build the things we want to use. This is a simple python code to create an in
 
 ![Recordit GIF](sample.gif)
 
-## Installation
+## Dependencies
+============
+* numpy
+* openCV
+* time
 
-Add additional notes about how to deploy this on a live system
+Use [pip](https://pypi.python.org/pypi/pip) to install any missing dependencies
 
 
 ## License
