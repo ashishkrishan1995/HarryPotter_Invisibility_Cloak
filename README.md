@@ -18,3 +18,6 @@ Use [pip](https://pypi.python.org/pypi/pip) to install any missing dependencies
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
+
+If you found this helpful or learned something today and want to thank me, consider buying me a cup of coffee.
+>  + [PayPal](https://paypal.me/ashishkrishan1995/2)
